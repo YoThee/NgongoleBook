@@ -13,10 +13,10 @@ Small traders in Zambia (shops, market stalls, tuck shops, salons) often sell on
 | Name                 | Student number | GitHub account | Owns research topic |
 |------                |----------------|----------------|---------------------|
 | Kunda Lwando         |  2300785       |      YoThee    | Room database       |
-| Daliso Chanda        |  2200811       |      Dr Doom   | Room database       |
+| Daliso Chanda        |  2200811       |      DC600     | Room database       |
 | Tamba Martin Syatyoka|  2300892       |                | WorkManager + notifications |
 | Vigo Nyamabo         |  2300754       |     vigo4vrlit | WorkManager + notifications |
-| Sean Anderson        |  2300811       |   Sean Anderson| Navigation + form (explains both topics at a basic level) |
+| Sean Anderson        |  2300811       |     NaesVlad   | Navigation + form (explains both topics at a basic level) |
 
 ## How to build and run
 
