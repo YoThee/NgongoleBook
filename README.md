@@ -14,9 +14,9 @@ Small traders in Zambia (shops, market stalls, tuck shops, salons) often sell on
 |------                |----------------|----------------|---------------------|
 | Kunda Lwando         |  2300785       |      YoThee    | Room database       |
 | Daliso Chanda        |  2200811       |                | Room database       |
-| Sean Anderson        |  2300811       |                | WorkManager + notifications |
+| Tamba Martin Syatyoka        |  2300892       |                | WorkManager + notifications |
 | Vigo Nyamabo         |  2300754       |     vigo4vrlit | WorkManager + notifications |
-| Tamba Martin Syatyoka|  2300892       |                | Navigation + form (explains both topics at a basic level) |
+| Sean Anderson        |  2300811       |                | Navigation + form (explains both topics at a basic level) |
 
 ## How to build and run
 
